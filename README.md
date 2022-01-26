@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oi, meu nome é Felipe Vieira
 
-<!--
-**Felipe6090/Felipe6090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Atualmente estou estudando: React native;
 
-Here are some ideas to get you started:
+-Quero Estudar: NextJs;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Não estou trabalhando no momento;
+<br /><br />
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe6090&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe6090&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  <br /><br />
+  <div> 
+  <a href="https://instagram.com/felipevieira962" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-borges-vieira-817a41176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
