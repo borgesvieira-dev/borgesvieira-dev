@@ -1,10 +1,12 @@
 ### Oi, meu nome é Felipe Vieira
 
--Atualmente estou estudando: React native;
+Sou Dev Front-End Junior, focado em reactJs e nextJs, também já tenho um sólido conhecimento no back-end, pelo que já estudei, Alura e Rocktseat, e também pelos processos seletivos para vagas fullstack, atualmento estou focado em me especializar em nextJs, mas também tenho estudado docker em pararelo, e no futuro pretendo aprender AWS, ambos pelas formações da Alura.
 
--Quero Estudar: NextJs;
+-Projeto que estou atualmente: https://github.com/Felipe6090/devnlg-test-dev-junior-front-end;
 
--Não estou trabalhando no momento;
+
+
+-Não estou trabalhando no momento e estou a procura de oportunidades;
 <br /><br />
 
 <div>
