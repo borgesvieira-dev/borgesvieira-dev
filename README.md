@@ -1,12 +1,15 @@
 ### Oi, meu nome é Felipe Vieira
 
-Sou Dev Front-End Junior, focado em reactJs e nextJs, também já tenho um sólido conhecimento no back-end, pelo que já estudei, Alura e Rocktseat, e também pelos processos seletivos para vagas fullstack, atualmento estou focado em me especializar em nextJs, mas também tenho estudado docker em pararelo, e no futuro pretendo aprender AWS, ambos pelas formações da Alura.
+Dev Full Stack
 
--Projeto que estou atualmente: [https://github.com/Felipe6090/cdlp-dev-junior-teste](https://github.com/Felipe6090/nlw_setup)
+Com o que estou trabalhando no momento:
 
+- Automatizações Python/Selenium
+- Gerenciamento de:
+  - Servidores Selnoid/Selenium Hub - Docker
+  - Scripts Python
+- Documentação e Automatização de Processos
 
-
--Não estou trabalhando no momento e estou a procura de oportunidades;
 <br /><br />
 
 <div>
