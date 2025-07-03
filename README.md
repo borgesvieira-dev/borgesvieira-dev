@@ -13,9 +13,9 @@ Com o que estou trabalhando no momento:
 <br /><br />
 
 <div>
-  <a href="https://github.com/Felipe6090">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Felipe6090&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe6090&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/borgesvieira-dev">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=borgesvieira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesvieira-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br /><br />
   <div> 
